@@ -11,5 +11,7 @@ public class Test {
 //        System.out.println(decode.toString());
         String encode = Base64.encodeToString(str.getBytes(), 0);
         System.out.println("加密："+encode);
+		 System.out.println("1111111");
+		
     }
 }
