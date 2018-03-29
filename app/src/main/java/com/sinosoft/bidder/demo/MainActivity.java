@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 //        System.out.println(decode.toString());
         String encode = Base64.encodeToString(str.getBytes(), 0);
         System.out.println("加密："+encode);
-        
+        System.out.println("2222222222222");
         System.out.println("11111111111");
     }
 }
